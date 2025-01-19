@@ -1,0 +1,6 @@
+{
+    "zencoder.enableRepoIndexing": true,
+    "zencoder.excludeGitIgnoreFromIndexing": false,
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
+}
